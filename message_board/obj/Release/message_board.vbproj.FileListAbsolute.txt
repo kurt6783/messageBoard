@@ -1,0 +1,14 @@
+C:\Users\D90-045\Desktop\message_board\message_board\bin\Release\message_board.exe
+C:\Users\D90-045\Desktop\message_board\message_board\bin\Release\message_board.pdb
+C:\Users\D90-045\Desktop\message_board\message_board\bin\Release\message_board.xml
+C:\Users\D90-045\Desktop\message_board\message_board\bin\Release\MySql.Data.dll
+C:\Users\D90-045\Desktop\message_board\message_board\obj\Release\ResolveAssemblyReference.cache
+C:\Users\D90-045\Desktop\message_board\message_board\obj\Release\message_board.Resources.resources
+C:\Users\D90-045\Desktop\message_board\message_board\obj\Release\message_board.vbproj.GenerateResource.Cache
+C:\Users\D90-045\Desktop\message_board\message_board\obj\Release\message_board.exe
+C:\Users\D90-045\Desktop\message_board\message_board\obj\Release\message_board.xml
+C:\Users\D90-045\Desktop\message_board\message_board\obj\Release\message_board.pdb
+C:\Users\D90-045\Desktop\message_board\message_board\obj\Release\message_board.CreatAccount.resources
+C:\Users\D90-045\Desktop\message_board\message_board\obj\Release\message_board.Board.resources
+C:\Users\D90-045\Desktop\message_board\message_board\obj\Release\message_board.login.resources
+C:\Users\D90-045\Desktop\message_board\message_board\obj\Release\message_board.MessageBoard.resources
